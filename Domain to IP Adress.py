@@ -10,3 +10,5 @@ domain = input("Enter domain : ")
 ip = socket.gethostbyname(domain)
 
 print("IP : " + ip)
+
+
